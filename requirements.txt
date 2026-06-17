@@ -1,0 +1,18 @@
+pip>=23.0
+# Requires Python >= 3.14.6 (active venv: 3.14.6)
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+mplfinance
+scikit-learn
+tensorflow
+keras-tuner
+tensorboard
+joblib
+streamlit
+jupyter
+nbformat
+nbconvert
+ipykernel

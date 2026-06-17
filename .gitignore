@@ -1,0 +1,26 @@
+# Environment
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# ML models (optional but recommended)
+*.pkl
+*.keras
+*.h5
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
